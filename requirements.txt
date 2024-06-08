@@ -1,0 +1,12 @@
+google-generativeai
+python-dotenv
+langchain
+faiss-cpu
+langchain_google_genai
+tiktoken 
+langgraph 
+tavily-python
+sentence_transformers 
+accelerate
+llama_parse
+ragas

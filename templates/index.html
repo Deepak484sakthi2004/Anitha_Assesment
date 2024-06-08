@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        h1 {
+            color: #333;
+        }
+        #response {
+            margin-top: 20px;
+            padding: 10px;
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        b {
+            color: #007BFF;
+        }
+        li {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chatbot</h1>
+    <br><br>
+    <input type="text" id="question" placeholder="Ask a question">
+    <button id="ask">Ask</button>
+    <button id="evaluate">Ask and Evaluate</button>
+    <div id="response"></div>
+    <br>
+    <p>Accuracy:</p>
+    <div id="score"></div>
+
+    <script>
+        $(document).ready(function() {
+            $('#ask').click(function() {
+                var question = $('#question').val();
+                $.post('/ask', { question: question }, function(data) {
+                    $('#response').html(data.response);
+                });
+            });
+
+            $('#evaluate').click(function() {
+                var question = $('#question').val();
+                $.post('/evaluate', { question: question }, function(data) {
+                    $('#score').html(data.evaluation);
+                    $('#response').html(data.response);
+
+                });
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1058 @@
+# Art of Stock Investing - Indian Stock Market
+
+Leverage on great companies, churning more and more profits every year
+
+By
+
+Manikandan Ramalingam
+
+© All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior permission of the publisher.
+
+The author asserts the moral right to be identified as the author of this book.
+
+Prior permission has been received from moneycontrol.com for including snapshots from their website stating that their source would be mentioned in this book
+
+© www.bse2nse.com
+---
+# Table Of Contents
+
+|Main Topics Discussed|
+|---|
+|Introduction|4|
+|Why & How Stock Markets Came Into Existence?|5|
+|How & Why Does A Share Price Rise & Fall?|6|
+|Some Basic Terms of Stock Markets|7|
+|Market Capitalization|7|
+|Earnings Per Share (EPS) & (P/E)|7|
+|Where Can I Check All These For A Company?|9|
+|Art Of Picking Worthy Stocks|11|
+|Debt & Cash Equivalents of a Company|11|
+|Brand Value of a Company|13|
+|Competition & Future Growth Prospects|14|
+|Growth Consistency of a Company|15|
+|Promoter Share Holding|19|
+|Power Of Compounding|20|
+|Stock Recommendations - Evergreen Stocks|22|
+|Common Mistakes To Stay Away From|33|
+|Better Times To Buy & Best Times To Sell|35|
+|Better Times To Buy|35|
+|Best Times To Sell|36|
+|Gold ETF's|39|
+|Some Personal Advice|39|
+|What About Mutual Funds?|40|
+|Summary or Re-cap of the Book|41|
+|Your Feedback|42|
+|Disclaimer|43|
+
+© www.bse2nse.com
+---
+# Acknowledgements
+
+My parents are the reason for what I am today. So I cannot thank them enough. I also want to thank, all the teachers who taught me at AECS School, Kalpakkam.
+
+Then, a big thank you to Jagadeesh Balu who was my batch mate at College of Engineering Guindy for introducing me to the world of stock investing in the 3rd year of College. Some more to Karthik Narain and Arun Ganesh who are also my batch mates at CEG.
+
+I also want to thank moneycontrol.com, for letting me include snapshots from their website. But for that, the book would have lost the power of communication.
+
+I want to thank Varathan, from Kalpakkam for helping me out with the layout & for the cover page design.
+
+© www.bse2nse.com
+---
+# Introduction
+
+A lot of people call or believe investing in stocks is gambling. A true investor would appreciate it being called risky. It’s like the belief, that getting into sea waters or a pool is risky. But someone with the right swimming skills would know, when and where to swim to enjoy it.
+
+My Mom is a strong believer that, investing in land or house is the safest thing to do. Yes, it truly is, with the growing population and increasing purchasing capacity in India bidding to own a piece of limited space of land that’s available. But it becomes a locked asset, which you would never plan or be able to sell or liquidate or leverage on. No need to mention that, you would commit 20 years of your life to a job you don’t like (To pay EMI), with no option to escape. It also has problems like maintenance, litigation issues, encroachment and so on.
+
+The true value of a land is never transparent and brokers make sure you buy higher and sell lesser when you have to. That’s why my Mom hates the selling part. Since the true value is not transparent, no selling price is satisfying enough. The main problem for me is, i cannot buy a piece of land for Rupees 3000, Can I now? Which would be a common man's monthly savings, which he would prefer to invest. And i cannot sell a piece of land on the day i want to. My dad took 2 years to sell a piece of land in Chennai City and the buyer took a year to pay back in installments. And the whole process is so damn frustrating to say the least. My simple piece of advice: If you buy a land or house, don’t get into a situation with a need to sell it any time in the future. You can buy a house to live in it. There’s nothing wrong with that. Buying a house or land purely as investment is a pain, though it gains in value over 20 years (Half your life is over by then). And you are left to contemplate if you bought and sold at the right going price.
+
+You can invest in any corner of Indian Soil and expect it to grow in value over 20 years. The same is not true about investing in stocks listed in Indian Stock Exchange. 99% of stocks listed in Indian Stock Exchange, would not be worthy of being invested in at all times (Economy / Financial Markets, has good and bad moods too like human beings). This is why investing is considered an art, for those with the knowledge of Financial Markets*. The critical aspect of this art is to cherry pick the worthy stocks, which would fall the least during bad times and appreciate well in value over a period of time. There are other add-on aspects of course, like better times to buy and best times to sell.
+
+An investor needs to be empowered with the basic fundamental knowledge of Financial Markets. It’s unfortunate, that people in India who invest in stocks & mutual funds (to save on Tax) lack this knowledge. This book will un-cover the basic fundamentals of Indian Stock Markets & generally any stock market really. I intend to make this book as short as possible and to the point with no intention to confuse you.
+
+Financial Markets* - Includes Stock Market (Equity Markets), Bond Markets, Commodity markets, Derivatives Markets and so on.
+
+© www.bse2nse.com
+---
+# Why & How Stock Markets Came Into Existence?
+
+To understand the very basics of stock markets, you should know why they came into existence. Why did anyone need a Stock Market? The answer is simple: Stock Markets came into existence because Companies or Businesses needed them.
+
+Let’s try to understand this better. Why would companies or businesses like TCS or Infosys need Indian Stock Markets? Infosys was founded on 2nd July, 1981 by N. R. Narayana Murthy and 6 others with an initial investment of Rupees 10,000 officially becoming the first employees of the company. The 10,000 Rupees would have been sufficient only to start Infosys, but they cannot run and expand their business with that forever. As you can obviously figure out now, they would need more funds to run and expand their business.
+
+Where will the fund they need come from?
+
+- The little profits, if any they make, in early stages of a company wouldn't be enough to fuel the ambitious expansion plans they must have had.
+- Taking debt or loans from Banks is one option. But, it sadly needs to be paid back with interest. And if the company runs into losses while they expand, it will be even more painful for the company to pay back the debt. So, a company cannot take too much debt.
+- They can approach a Venture capitalist, for funds in exchange for stake in the company.
+- Raise funds from public. This is done through Initial Public Offer (IPO) where-in the company decides to sell, say 10% stake to the public. The 10% stake is divided into numerous shares, so that common public can afford to buy few shares. The funds raised in an IPO goes to the company, which will be used for daily operations and for their expansions. This is where the existence of Stock Markets has evolved over time.
+
+This Initial Public Offer is known as Primary Markets. Few weeks after the IPO closes, the company is said to be listed in Indian Stock Exchange (Also known as Secondary Markets) and gets traded. The shares exchange hands from one person to the other, virtually every second nowadays, when the Indian Stock Exchange is open. Public can now buy and sell shares online, via brokers like ICICIDIRECT, ShareKhan & so on. It is very similar to holding an online bank account.
+
+Back to Infosys: Infosys made an initial public offer on February, 1993 and was listed on stock exchanges in India on June, 1993. The offer was priced at Rupees 95 per share. The company offered about 40% of its post-offer equity capital, through that IPO, aiming to raise Rupees 13 Crores. Trading opened at Rupees 145 per share, in secondary market, compared to the IPO price of Rupees 95 per share.
+---
+Assuming, one holds 1 share of Rupees 95 from 1993 IPO, it would be worth over 3 Lakhs today (Including dividends of around Rupees 25,000). 3 Lakhs doesn’t sound too great today. Does it? Normally the minimum amount to apply in an IPO is Rupees 5000. Assuming, one invested Rupees 5000, in 1993 Infosys IPO and has been holding till date, it would be worth over 2 Crores today (Including dividends around 25 lakhs). Sounds exciting? Remember, like i said before, 99% of stocks listed in Indian Stock Markets, are not worthy of staying invested at all times. People without the basic knowledge of Stock Market, would fall into the 99% of non-worthy stocks, which will erode their investments, ending up in losses. Infosys share price rose so much, as its profits rose so much, in the last 2 decades. The art of investing is to identify evergreen companies, with profits growing consistently.
+
+How & Why Does A Share Price Rise & Fall? Basically, the rise and fall of share price, is due to the tug of war between buyers and sellers. Last Traded Price (LTP), is technically defined as the price at which, someone owning a share (Seller), decides to sell his shares, at an agreed price to a buyer. The Last Traded Price, fluctuates every second, when Markets are open, as millions of users across the world sit in front of their computers, placing buy or sell orders online. Indian Stock Markets are currently open between 9:15 AM and 3:30 PM IST.
+
+If on a particular day, there are more bids to buy shares, than shares that are in offer to be sold, then the share price rises. The share price falls, when there are more sellers than buyers in a day.
+
+Traditionally, when internet was not popular, Stock Exchanges were carried out on a trading floor, by a method known as open outcry, where traders may enter "verbal" bids to buy and offers to sell simultaneously. It’s very similar to how auctions are conducted.
+
+The universal truth is that, if a company grows in value, so will the share price, over a period of time. A sprouting company grows in value: when they expand their business presence, when their profit grows year on year, when their debt reduces & becomes zero, when their cash & cash equivalents grow, when their asset value grows and so on. Such companies are worthy companies to be invested in. Buying demand of such companies, will always rise in the longer run, although, short term stock price fluctuations will be there, even for the best companies.
+
+We'll talk more on how to pick such rare worthy stocks more in detail later.
+
+© www.bse2nse.com
+---
+# Some Basic Terms of Stock Markets
+
+Before we get to the art of picking worthy stocks to invest in, let’s get to know some of the basic fundamental terms. Below terms are not parts of the criteria to filter and pick good companies to stay invested in. I am only explaining them, as I would be referring these terms in the later sections. Also, you don’t need to be calculating or know mathematics, to find these values for each company. All values are available on websites like www.moneycontrol.com. You just need to know what they mean. So, don’t worry about the mathematics involved at all to be a good investor. If you find this section confusing, just run through it fast. I am serious. It will all make sense when you finish reading this book. You can come back and read this chapter later, for more clarity.
+
+# Market Capitalization
+
+A Company is divided into numerous shares and this number varies from company to company. For example, Infosys is divided into over 57 Crore shares and each share price is worth over Rupees 2500 today. TCS has over 195 Crore shares and each share price is worth over Rupees 1000 today.
+
+Market capitalization is nothing but the total value of a company (Total number of shares multiplied by current share price). As the share price varies from time to time, so does the market capitalization.
+
+|Company|Market Capitalization|
+|---|---|
+|Infosys|(57 Crore x 2500) = 1,42,500 Crores|
+|TCS|(195 Crore x 1000) = 1,95,000 Crores|
+
+One way to look at market capitalization is: Let’s say, if you have Rupees 1,42,500 Crores in hand, you can technically buy all shares of Infosys and be the sole owner of Infosys.
+
+Thing to note here is, share price of Infosys (Rupees 2500) is more than the share price of TCS (Rupees 1000). But, TCS is the bigger company in terms of valuations or market capitalization.
+
+In a good company, majority of the shares are held by promoters & their families (Founders of the company), FII's (Foreign Institutional Investors), Mutual Funds and HNI's (High Net worth Individuals). The common public holds only a very little portion.
+
+Note: Market Capitalization is also commonly referred to as market cap in short.
+
+# Earnings Per Share (EPS) & (P/E)
+
+Now, you understand that, each company's total number of shares is not the same. Each company either makes profits or losses every year. Company's profits or loss financial statements, are announced every quarter (every 3 months). Financial statements include revenues or sales, expenses & profits, which the company made in the 3 month period. The financial results are also consolidated on a yearly basis. Most companies follow April to March as their financial year (Just like January to December is the calendar year). Below would be the 4 quarters between April & March:
+---
+# April to June
+
+Quarter 1 (Q1) ... For example, April 2010 to June 2010 is Quarter 1 for Financial Year 2011 (Q1 FY 2011).
+
+# July to Sep
+
+Quarter 2 (Q2) ... For example, July 2010 to September 2010 is Quarter 2 for Financial Year 2011 (Q2 FY 2011).
+
+# Oct to Dec
+
+Quarter 3 (Q3) ... For example, October 2010 to December 2010 is Quarter 3 for Financial Year 2011 (Q3 FY 2011).
+
+# Jan to Mar
+
+Quarter 4 (Q4) ... For example, January 2010 to March 2010 is Quarter 4 for Financial Year 2011 (Q4 FY 2011).
+
+Earnings per share (EPS) are nothing but, profits or losses made in the last 12 months divided by the total number of shares. Mathematically, it’s defined as below:
+
+Earnings per share (EPS) = (Profits or Losses per year) / (Total number of shares)
+
+So, EPS changes every 3 months, based on the financial results announced by the company each quarter. If a company makes losses, its EPS turns negative. Now, let’s take the example of TCS. TCS made profits of Rupees 7570 Crores in 2011 (FY 2011). We know that TCS is divided into 195 Crore shares.
+
+EPS of TCS in 2011 = (TCS profits in 2011) / (Total number of share in TCS) = (7570 Crores) / (195 Crores) = 38 Rupees per share.
+
+So, what does EPS of TCS in 2011 mean? It means that, each share of TCS worth Rupees 1000, earned or made profits of Rupees 38, in 2011.
+
+Now, P/E is a derived term from EPS. P/E is mathematically defined as below:
+
+P/E = (Share Price of a stock) / (Earnings per Share)
+P/E of TCS in 2011 = (Share price of TCS) / (EPS of TCS in 2011) = (1000) / (38) = 26
+
+Since, share price changes every day, so does its P/E. IT companies normally have a P/E of around 25. Steel companies normally have a lower P/E of 6. P/E varies from sector to sector and from company to company, based on various factors which cannot be analyzed or reasoned with. So don’t worry about it.
+
+P/E is similar to price of a land per square feet [ (Price of Land) / (Total Area of Land) ]. Land price in a City will always be higher than that of price of land in a Village.
+
+The common mis-understanding among amateur investors is that, lower P/E is cheap valuations and higher P/E is expensive valuations. This is so wrong. P/E is an immaterial factor, to find good worthy stocks for investing.
+
+© www.bse2nse.com
+---
+Where Can I Check All These For A Company?
+
+www.moneycontrol.com is the best website I know, to check all at one place. Go to moneycontrol.com and enter “TCS” at the top center of the webpage, where it says ‘Type Here’. Below is the snapshot of the page you will get. The first circle over 1174.45 is the stock price of TCS, when I took the snapshot. You can see various tabs on the left. Financials is more important than the rest. Three more circles at the bottom show Market cap, EPS & P/E of TCS.
+
+|Tata Consultancy Services|@BSE, 632540|NSE: TCS|ISIN: ine407801020|Sector: Computers|Set Alert|Add to Portfolio|Watchlist|Trade Online|
+|---|---|---|---|---|---|---|---|---|
+|04c20.10.14BSE Ine 1174.45| |5.30 (+0.4590)|Volume 14,816| | | | | |
+|Prev Close 1169.15|Open Price 1161.10|Bid Price (Qty) 1174.00 (501)|Offer Price (Qty) 1174.45 (61)|Prev Close 1169.20|Open Price 1163.50|Bid Price (Qty) 1173.70 (41)|Offer Price (Qty) 1174.45 (151)| |
+| | | | | | | | | |
+
+Quote
+
+|Basic Chart|Advanced Interactive Chart|
+|---|---|
+|Charts|Moneycontrol.com|
+|Views| |
+|Date|Open|High|Low|Close|Volume|Advanced Interactive Chart|
+|29 Dec 2011|1161.10|1175.00|1161.10|1173.85|14666| |
+|Announcements| |
+|Corporate Actions|1239|
+|Financials| |
+|Annual Report| |
+|Shareholding|1078.84|
+|Pattern|998.57|
+|Peers| |
+|Company Info|918|
+|Comments|2010|Apr 2011|Jun 2011|Aug 2011|Oct 2011|Dec 2011|
+|Alerts| |
+|Your Feedback| |
+|Market Cap (Rs Cr)|229,748.39|EPS (TTM)|48.29|24.31|P/E|23.00|
+|Valued| |
+|Book Value (Rs)|99.53|Price/Book|44.79|Div (%)|1400.009|Div Yield (%)|1.199|
+|Market Lot| |Face Value (Rs)|1.00|Industry P/E|21.64|
+
+Courtesy: moneycontrol.com
+
+Let’s now move on to the more important art of finding worthy stocks for investing.
+---
+Service Offerings from www.bse2nse.com
+
+- FREE Training on Futures & Options Trading
+bse2nse.com is an Authorized Person for Zerodha and we offer FREE Training on Futures and Options Trading for clients who open a Zerodha Trading Account through us. You can fill-out the form in the below URL if you are interested to join us. bse2nse.com/brokers-trading-platforms/2250-zerodha-brokerage-rates-charges-one-cheapest-brokerage.html
+
+The FREE training is only applicable to clients who open a Zerodha Trading Account through us. It is not applicable to clients who open it directly with Zerodha.
+- Watch Our Videos on You-Tube
+We have categorized videos on our You-Tube Channel as Beginners, Traders, Investors, and Private Videos for Zerodha clients.
+
+Watch our videos @ www.youtube.com/user/bse2nse or just search on You-Tube for “bse2nse” to find us.
+
+Subscribe to our You-Tube Channel to stay in touch
+- Long Term Investment Dashboard
+Checkout our Long Term Investment Dashboard at the below URL bse2nse.com/Dashboard/EOD/Equity/screens/eod_dashboard.php
+
+It filters in on less than 30 companies out of 1000 plus companies listed in NSE Exchange. Watch the video linked on the Dashboard URL to understand the logic of how this filter works.
+
+Feel free to drop me an e-mail at rmani84@gmail.com or Whats-App @ 9600081895.
+
+© www.bse2nse.com
+---
+# Art Of Picking Worthy Stocks
+
+Like i said in the introduction, 99% of stocks or companies are not worth investing in. So, in simple words, art of picking worthy stocks, is avoiding 99% of the stocks or companies. That’s all you have to do, to be the best & smartest investor.
+
+# Debt & Cash Equivalents of a Company
+
+You can ignore over 90% of stocks, by just looking at debt levels of the company.
+
+Debt or loans or liabilities is a killer. Either we or our parents would definitely have loans in some form or the other (House loan or personal loan or car loan or two-wheeler loan or educational loans & so on). Just like us, companies also take loans, in earlier stages to expand and run their company. Very few companies execute their expansion plans and go on to pay off their debts. After that, they expand their business more & more, from the profits they make every year. Such companies will start accumulating cash from profits they make every year, just like savings we build in our bank accounts. On the contrary, debt will also pull profits downwards, as the company will need to pay interest on the loans or debt every quarter.
+
+If you think of a company as a ship, debt is like holes in a ship. The more the debt exposure, larger is the size of the hole in the ship. A company loaded with debt or loans is a sinking ship. When you invest in a sinking ship, you will sink with it. While profits made by a company every year, tries to push the ship forward, debt tries to sink the ship.
+
+So, what is the right balance of debt and profits? (Debt to Profits Ratio)
+
+A Zero debt company is Green signal for me any day. It’s always easy for a ship with no holes in it to move forward and win the race, than a ship with holes in it (Irrespective of size of the hole). Any company with debt lesser than 2 years of profits, is Yellow signal for me. They have a few holes in it. But, they can always pay it back in 2 years, if they choose to use their profits, to pay off the loan rather than use it to expand their business. Their business expansion will have to wait for 2 years. But that’s not a big deal. Any company with debt more than 2 years of profits, is Red signal for me. The more the debt to profit ratio is, the larger is the size of the hole in the ship. If you drive with red signal on, you are going to be dead soon. It’s the same with stock investing.
+
+© www.bse2nse.com
+---
+# Share Price and Debt Comparison Between Companies
+
+Share price of a Zero debt company will fall lesser than a company with debt. Here are some facts comparing two stocks between 2008 and 2011, one with debt and the other with zero debt:
+
+|Company|Debt|Profits (2008)|Share Price (2008)|Share Price (2011)|
+|---|---|---|---|---|
+|Colgate Palmolive (India)|Zero debt|Rupees 231 Crores|Rupees 450|Rupees 1000|
+|DLF|Rupees 8,000 Crores|Rupees 2,575 Crores|Rupees 1000|Rupees 200|
+
+Colgate Palmolive's share price has significantly increased over the years due to being a zero debt company, while DLF's share price has fallen due to its high debt-to-profit ratio.
+
+# Cash & Cash Equivalents
+
+Most companies with debt do not have cash & cash equivalents, as they use their profits to either expand or pay off debt. Zero debt companies can use their cash reserves to expand, acquire other companies, and increase profits.
+
+Comparing cash to market cap ratio:
+
+|Company|Market Cap|Cash|Cash to Market Cap Ratio|
+|---|---|---|---|
+|Colgate Palmolive (India)|Rupees 14,000 Crores|Rupees 400 Crores|3%|
+|Infosys|Rupees 1,50,000 Crores|Rupees 15,165 Crores|10%|
+
+Cash-rich zero debt companies are less likely to see a fall in share prices and are more focused on future growth potentials.
+
+It's important to consider a company's debt status before investing, as companies with high debt may not be ideal for investment.
+---
+# Brand Value of a Company
+
+After Debt, the next big aspect to the art of investing is, to analyze the brand value of a company.
+
+Brand value of a company is the next big factor. You will need to build some knowledge of companies and its brand products, to master the art of investing. It gives you the vision of whether the company will do well or not in future, which ensures share price rise. Only companies making good quality products & services, can build good brand name & brand value. And, good products with good brand value, will always churn more profits.
+
+You may not have heard about the company "Godrej Consumer Products", but you would have heard about their popular products like, "Good Knight", "Hit" to kill cockroaches, "Cinthol" soaps, "Godrej Hair dye" and many more. You may not recognize the company by name Pidilite, but you would recognize Fevicol, Fevistick and so on. When you buy shares of such brand valued companies, you gain as their profits grow every year. And, such few brand valued, Zero Debt companies, consistently rise in profits every year. And their share price, will always rise back from lows and keep going up in the long term.
+
+Now, there are companies with Zero debt and good consistent profit growth, with lesser or NO brand value or recognition. A lot of people, jump into buying stocks, without understanding the brand value in it. What happens is, when some bad news or rumors or bad economy comes in, fear haunts investors and its funny how lesser brand valued stocks, fall 20 to 30% or more in just a few days, for funny reasons. You all will agree that, India is not a country short of rumors. Strong brand value will always kick away fear. As an investor, you yourself will feel much better about investing in shares, of strong brand valued companies.
+
+Let me give you some factual examples: "Glodyne Technoserve" is an IT company and had Debt to Profits ratio of 1 (Which is pretty decent for a small company, although I always prefer a zero debt). The company's revenues and profits have risen consistently, in the last 5 years. If you cut out the brand value factor, it’s a great company to buy for long term. Glodyne's share price was trading above Rupees 700 levels, till late 2010. There were rumors or news one day, that Income Tax department raided the company and the share price fell 50%, in just few days. The share price has not risen back since then and has stayed down below Rupees 300, on bad economy. Investor confidence took a beating.
+
+LIC Housing Finance, had a much bigger bad news at the same time as Glodyne, in late 2010. The CEO of LIC was arrested by CBI, on bribery scam, in fake housing scandal. Stock price fell from Rupees 250 to Rupees 200 in few days and to lows of 150 within a month. LIC soon reinstated a new CEO and said it would be business as usual. Due to strong brand value, investor confidence came back soon and stock price recovered back to Rupees 240 levels, within a couple of months.
+
+Filter out and avoid companies without brand value. You can avoid a lot more in the left over 9% with brand value.
+
+© www.bse2nse.com
+---
+# Competition & Future Growth Prospects
+
+As an investor of today, you don’t benefit from a company's past growth (Share price would have already risen in the past for that). It’s the company's future growth, which unfolds, that’s going to take the share price higher and higher. Scope for Growth in Future, is dependent largely (not entirely) on the competition a company faces. Lesser the competition, easier is the growth.
+
+During school days, it’s tough to rank in top 5, if you have 50 classmates. It’s easier with just maybe 20 classmates. It’s more so easier, if your classmates are not so studious. It’s the same for the company's as well. So, it’s critical to understand the competition a company faces. You can even drill down to individual products, within the company and the competition for each of its products.
+
+Let me share few interesting facts.
+
+There are 22 companies in Cement Sector, listed in Indian Stock Exchange. They all make Cement. Let’s assume that, demand for cement rises 4 times by 2015, in India. This growth in demand for cement gets split among the 22 companies (There would be other unlisted smaller players too). Of course, a company with Zero debt and better management, would grab the opportunity, more than anyone else.
+
+Let’s go over to the IT sector: There are over 30 listed companies in the IT sector. TCS and Infosys are strong competitors to each other. Wipro, HCL, Satyam and Patni come in next.
+
+Let’s move on to Hospitals & Medical Services sector: There are only 7 listed companies here, led by Apollo Hospitals Enterprises. It’s nearly a monopoly by Apollo, except for maybe Fortis Healthcare. All others, are either loaded with debt or too small to pose a thread. I would simply prefer to invest in Apollo, rather than TCS or Infosys for this reason.
+
+Let’s checkout Paint Industry: There are only 6 listed players, dominated by Asian Paints. All others are too small or loaded with debt to pose a threat.
+
+Let’s go to fast food: specifically Pizza. You may not have heard of Jubilant Foodworks, but might have tasted Domino's Pizza. Their only real competitor is Pizza Hut, which is not listed in Indian Stock Exchange. With least competition and good future scope, I would definitely prefer to invest in Jubilant Foodworks.
+
+# Future Growth Prospects
+
+While competition is a major factor, scope for future growth comes in as a secondary factor. To understand this better, let’s talk about Telecom sector. Bharti Aitel has Debt to Profits ratio of less than 2 and is a strong brand valued company. Let’s checkout its listed competitors: Idea, Reliance Communications and Tata Communications, are loaded with Debt to Profit ratio of more than 10. Bharti Airtel dominates the telecom industry. But their profit growth has saturated in India. Why? By now, every Indian above the age of 20 from Kashmir to Kanyakumari has a cell phone. The only scope
+
+14 © www.bse2nse.com
+---
+# for growth left is increase in Indian population.
+
+This is the reason why, Bharti Airtel is increasing its presence outside India. Airtel is still a better stock, than many debt loaded ones. But it is not the next big thing.
+
+# Let’s now think about Jubilant Foodworks (Domino's Pizza).
+
+Their presence is currently seen in a few places, only in major cities of India today. There's a lot more scope for growth, left in Cities, smaller cities and villages. It may take 10 more years for it to thrive in smaller cities, but when it does: investors of today will have gained big, over the next 10 years. And i have a strong belief that, smaller cities are the next big thing in India.
+
+# Growth Consistency of a Company
+
+By growth, I am talking about rise in Revenues and more specifically Profits. Revenue or Profit growth of the past will not push share prices higher. But, consistency of past profit growth, reflects how good a company performed in the past. They should continue the good work in the future too, which an investor will benefit from. If a company has been erratic in the past, its likely to be erratic in the future too.
+
+# Let’s check out few examples:
+
+|Company|Profits (in Crores)|Profit Growth|
+|---|---|---|
+|Colgate Palmolive (India)|138, 160, 232, 290, 403|16%, 31%, 25%, 39%|
+|Bharti Airtel|4033, 6244, 7743, 9426, 7717|55%, 24%, 21%, -18%|
+|Asian Paints|188, 270, 378, 362, 775|44%, 40%, -2%, 114%|
+---
+That’s it. It’s just 4 simple rules to avoid 99% of companies. More the companies you avoid, better the investor you become. I now avoid 99.75%, after 6 years of researching Indian stock market. There are over 6,000 companies listed on the Indian Stock Exchanges. If you avoid 99% of them properly using the 4 rules, you will be left with like close to 60 companies. If you filter the right 60 Stocks, you are well on your way to become a great investor. Pick the top 10 stocks according to your view and diversify your investments equally on 5 to 10 stocks. Less than 5 would mean more risk and more than 10 will not be manageable, in terms of tracking them.
+
+Watchout: When you step into stock market world, you will hear people crying out loud about ROE, ROI, low P/E attractive stocks and so on. These days, people who do management studies come up with too many terms and jargons just to confuse and convince people. Don’t fall for them. Stick to the basic rules.
+
+Where can I check Debt, Cash & Profits of a Company? Same place, moneycontrol.com it is. Debt, Cash & Profits are all available in Financials tab. You can check debt under ‘balance sheet’ which is a sub-menu of Financials. Below is the snapshot for TCS.
+
+|Tata Consultancy Services|BSE 632340|Nse Tcs|Sector Computtr|Set ALert|AdD TO PORTFOLO|Watchlst|TRADE ONLINE|
+|---|---|---|---|---|---|---|---|
+|BSE UE|1168.15|-1.00 (0.09%)VOLUMIE 28.274|NSELne|1168.50|0.70 (0.06%)VOLUM'E 234.818|QUOTE|CHARTS|
+|MEWS| | | | | | | |
+|AMIOUIICENEITS|Balaic e Sheet ot Tata Consulalicy Senices| | | | | | |
+|CORPORATE AcTOI|T2mins|12 mihs|12 mins|12 Mins|12 mins| | |
+|FimatcILS|Souuces Of Fuuds| | | | | | |
+|Total Share Capilal|295.72|295.72|197.86|197.86|97.86| | |
+|Equity Share Capilal|195.72|195.72|97.86|97.86|97.86| | |
+|Share Application Honey|0.00|0.00|0.00|0.00|0.00| | |
+|Preference Share Capital|100.00|100.00|100.00|100.00|0.00| | |
+|Reserres|19,283.77|14,820.90|13,248.39|10,806.95|7,961.13| | |
+|Revaluallon Reserves|0.00|0.00|0.00|0.00|0.00| | |
+|Hali Yealy Resuis|Reserres|19,579.49|15,116.62|13,446.25|11.00+.8|8,058.99| | |
+|Secured Loans|35.87|29.25|32.63|927|41.76| | |
+|Unsecured Loans|5.25|6.49|7.74|8.98|8.98| | |
+|Total Debt|4.Z|35.74|40.27|18.25|50.74| | |
+|Total Liablnies|19,620.61|15,152.36|13,486.62|11,023.06|8,109.73| | |
+|Copid stuciute| |H|Har * 10|Har *09|Har *08|M "07| |
+
+Courtesy: moneycontrol.com
+
+Look at the red circles. You can see the debt that TCS had in the last 5 years. Note that all these values are in Crores.
+---
+# Click on the ‘Cash Flow’ sub-menu of Financials tab and you can see the cash & cash equivalents of TCS. Below is a snapshot of the cash & cash equivalents for TCS. You can see net increase and decrease in cash balance of TCS in the last 5 years. When a company acquires another company, their cash balance normally decreases (Unless they choose to take debt to pay for the acquisition). Or, it may be a case where they expanded that year by opening up new offices & so on.
+
+|Tata Consultancy Services|BSE532540|MSe Tcs|
+|---|---|---|
+| | |SeT ALert|Add To PortFolo|WeTchLiST|TRADE 0|
+|Dec 20.1121|BSE LhE|1169.70|'0.55 (+0.059)|VOLUME 29,928|
+|Dec 20.1121|NSE LE|1169.80|0.60 (+0.05%)|VOLUME 241,577|
+
+CHARTS
+
+MEWAS
+
+AIIQUIICEMEITS Cashi Flom ol Tala Cousuhallcy Senvces Rs: C.
+
+| |Mar|Mat|Mar "09|Mar "08|Mar "07|
+|---|---|---|---|---|---|
+|CORPORATE AcTOII|12 mihs|12 mhs|12 mths|12 mihs|12 mihs|
+|FIMANCIALS|Ilet Ptolit Before Tax|8700.43|637038|5139.68|5003.86|1170.68|
+|Balance Sheel|Nel Cash From Operaling Acirvilies|5741.28|6264.74|4874.12|3827.91|3551.26|
+|ProltLoss|Met Cash (used In)lrom Inve sling Acimvilles|863.16|4556.64|3162.22|2404.90|2076.42|
+|Quarterly Resuis|Net Cash (used In)irom Financing Activitie s|4605.61|-196965|1588.25|-1424.77|-1075.35|
+| |Ilet (dectease) Micrease In Cash aud Cash Equivalents|283.90|261.55|4123.65|29.62|385.97|
+|Hali Yearly Resuts|Eqpurvalents|Opening Cash & Cash Equivalents|293.28|554.83|417.00|557.14|171.7|
+|Nina Nonthiy Resuis|Closing Cash & Cash Equvalents|577.18|293.28|540.65|527.52|557.14|
+|Yearh Resuts| | | | | |
+|Cacn Flow|SourceDion Global Solutbns| | | | |
+| |Explore ICS connecons| | | | |
+
+Courtesy: moneycontrol.com
+---
+# Yearly Results
+
+Next, click on the ‘Yearly Results’ sub-menu under the same “Financials” tab to checkout revenues and net profits that TCS made in the last 5 years. You can also see how well the ‘Sales Turnover’ has increased for a company in the last 5 years.
+
+| |Mar '11|Mar '10|Mar '09|Mar '08|Mar '07|
+|---|---|---|---|---|---|
+|Sales Turnover|29,275.41|23,044.45|22,404.00|18,533.72|14,939.97|
+|Other Income|494.73|177.60|-456.24|445.95|216.55|
+|Total Income|29,770.14|23,222.05|21,947.76|18,979.67|15,156.52|
+|Total Expenses|20,511.88|16,372.78|16,383.17|13,513.61|10,639.00|
+|Gross Profit|9,258.26|6,849.27|5,561.59|5,166.06|1,517.52|
+|Interest|20.01|9.54|7.44|3.42|3.43|
+|PBDT|9,238.25|6,839.73|5,557.15|5,462.64|4,514.09|
+|Depreciation|537.82|469.35|447.46|458.78|343.41|
+|PBT|8,700.43|6,370.38|5,139.69|5,003.86|4,170.68|
+|Net Profit|7,569.99|5,618.51|1,696.21|1,508.76|3,757.29|
+---
+# Promoter Share Holding
+
+The 4 basic thumb rules to Art of Stock Picking will help you find the best stocks to invest from a Retail Investor perspective.
+
+Before you proceed to invest, just make sure that the promoter stake in the company is clean. When I say clean, I mean that the promoter stake must not be pledged. If the promoter stake is pledged, it means that the promoter has pledged his stake in the company to a Bank as security and taken loans. It is a major negative for the company and its investors.
+
+In most fraudulent promoter cases, the promoter stake will be pledged. Satyam, KFA, Suzlon, Unitech are popular examples of promoter pledged, where retail investors wealth and hope has been demolished. Stay Away from such companies.
+
+To check whether promoter stake is pledged or not, click on the “Shareholding” tab on the left in money control. Below is a snapshot of the page in moneycontrol for Unitech. The right most column is “Shares Pledged or Otherwise Encumbered”. As you can see below, almost 91% of promoter stake is pledged
+
+|SHAREHOLDER|SHARE|OF SHARES|SHARES HELD|TOTAL SHAREHOLDING AS A %|SHARES PLEDGED OR OTHERWISE ENCUMBERED|
+|---|---|---|---|---|---|
+|Indian Individuals / Hindu Undivided Family|88,527,840|88,527,840|3.38|66,288,820|74.88|
+|Mutual Funds Holding|1,463,557,028|1,163,557,028|44.47|1,075,613,571|92.44|
+|Bodies Corporate|1,252,084,868|1,252,084,868|47.86|1,141,902,391|91.20|
+|Foreign Bodies Corporate|3,822,000|3,822,000|0.15| | |
+
+Total shareholding of promoters: 1,255,906,868 (48.00%) out of which 1,141,902,391 (90.92%) shares are pledged or otherwise encumbered.
+---
+# Power Of Compounding
+
+The maximum fixed (guaranteed) return available is 10% in fixed deposits. You can do 20 - 30% returns a year, if you follow art of investing properly. Now, that doesn’t sound like a great deal of difference, between stock markets and fixed deposit returns. Power of compounded returns, will be more and more as you give more time to it. The below table will show you the difference:
+
+|Time Frame|1 Lakh Invested Today|Fixed Deposit (10%)|Stock Investments (20%)|Stock Investments (30%)|
+|---|---|---|---|---|
+|5 years|1.60 Lakhs|2.50 Lakhs|3.70 Lakhs| |
+|10 years|2.60 Lakhs|6.20 Lakhs|13.80 Lakhs| |
+|15 years|4.20 Lakhs|15.40 Lakhs|51.20 Lakhs| |
+|20 years|6.70 Lakhs|38.30 Lakhs|1.90 Crores| |
+
+© www.bse2nse.com
+---
+# Service Offerings from www.bse2nse.com
+
+FREE Training on Futures & Options Trading
+
+bse2nse.com is an Authorized Person for Zerodha and we offer FREE Training on Futures and Options Trading for clients who open a Zerodha Trading Account through us. You can fill-out the form in the below URL if you are interested to join us.
+
+http://bse2nse.com/brokers-trading-platforms/2250-zerodha-brokerage-rates-charges-one-cheapest-brokerage.html
+
+The FREE training is only applicable to clients who open a Zerodha Trading Account through us. It is not applicable to clients who open it directly with Zerodha.
+
+Watch Our Videos on You-Tube
+
+We have categorized videos on our You-Tube Channel as Beginners, Traders, Investors, and Private Videos for Zerodha clients.
+
+Watch our videos at www.youtube.com/user/bse2nse or just search on You-Tube for “bse2nse” to find us.
+
+Subscribe to our You-Tube Channel to stay in touch
+
+Long Term Investment Dashboard
+
+Checkout our Long Term Investment Dashboard at the below URL http://bse2nse.com/Dashboard/EOD/Equity/screens/eod_dashboard.php
+
+It filters in on less than 30 companies out of 1000 plus companies listed in NSE Exchange. Watch the video linked on the Dashboard URL to understand the logic of how this filter works.
+
+Feel free to drop me an e-mail at rmani84@gmail.com or Whats-App @ 9600081895.
+
+© www.bse2nse.com
+---
+# Stock Recommendations - Evergreen Stocks
+
+You now know the 4 basic thumb rules, in the art of stock picking. It’s time to discuss stocks, which I consider as worthy investments. If you are still scared about stock investing or don’t have the time to handpick stocks, just checkout the stocks I mention 2 years later. I am sure all of them would rise in valuations (Stock price). Check them 20 years later and you will know the power of compounding.
+
+# Titan Industries Ltd
+
+Summary (Data as on Dec 2011):
+
+|Stock Price per Share:|170 Rupees|
+|---|---|
+|Market Cap:|15,300 Crores|
+|Debt:|67 Crores|
+|Cash & Cash Equivalents:|1094 Crores|
+|Profits in FY 2007, 2008, 2009, 2010, 2011:|94 Crores, 158 Crores, 159 Crores, 250 Crore, 430 Crores|
+|Profit growth in FY 2008, 2009, 2010, 2011:|68%, 1%, 57% and 72%|
+|Profit growth in last 5 years:|357%|
+|Share Price Rise in last 5 years:|325%|
+
+Let’s analyze Titan Industries with our 4 thumb rule.
+
+# Debt & Cash Equivalents of "Titan Industries"
+
+Titan has debt of Rupees 67 Crores. They have cash in hand of Rupees 1094 Crores. They probably took debt to do favor to bankers or to leverage on tax exemptions. Cash to Market cap ratio is 7% (Highly cash rich compared to other companies). More cash in hand is always better. More so for investors.
+
+# Brand Value of "Titan Industries"
+
+Titan is a TATA Enterprise (That in itself is enough said). Titan has been building customer base, for over two decades now. Let’s drill down more into their specific products.
+
+- Fastrack Watches
+
+I got nearly 4 watches during my marriage period. All of them were Titan Fastrack watches. Why? He's the only branded watch available all over India, in the budget range of Rupees 1000 to 5000. There is no other competitor. Not to mention that they have outlets all over the world.
+
+- Titan Eye+
+
+Titan Eye+ has Sunglasses, Lenses, Frames, Contact Lenses & so on. India is becoming fashionable at a fast pace. Everyone at-least in cities wants to buy Titan glasses, for eye sight problems.
+
+- Tanishq:
+
+Tanishq is India's largest jewelry brand (Gold, Silver Jewelry & so on).
+
+There are other brand products in Titan like Sonata, Xylys & Goldplus.
+---
+# Competition & Future Growth Prospects for "Titan Industries"
+
+Titan has very little competition at this point. There's no watchmaker or jewelry maker with outlets setup all over India. It’s virtually a Monopoly.
+
+Titan is setting up outlets all over the world. They recently acquired a watch maker brand in Europe. They may go on to acquire more, expanding their outlet chain. With other parts of the world facing crisis, Titan will thrive. Titan currently sells hot in major cities of India. They still have lots of space to grow in smaller cities of India, in the next 10 years. They advertise in radios & televisions, to increase their customer base. They offer discounts like 25% to capture fresh customers. I am sure they will continue to grow.
+
+# Growth Consistency of "Titan Industries"
+
+Read summary section, for Profits in the last 5 years. They have consistently made more profits than previous years. Their Revenues/Sales and Profits just go one way and it’s always on the way up.
+
+# TTK Prestige Ltd
+
+Summary (Data as on Dec 2011)
+Stock Price per Share: 2500 Rupees
+Market Cap: 2,800 Crores
+Debt: 2 Crores
+Cash & Cash Equivalents: 54 Crores
+Profits in FY 2007, 2008, 2009, 2010, 2011: 12 Crores, 21 Crores, 22 Crores, 52 Crores, 84 Crores
+Profit growp in FY 2008, 2009, 2010, 2011: 75%, 5%, 136% and 61%
+Profit growp in last 5 years: 600%
+Share Price Rise in last 5 years: 1900%
+
+# Debt & Cash Equivalents of "TTK Prestige"
+
+TTK Prestige is a Zero debt company for me. Good cash in hand for a smaller company like TTK Prestige. Cash to Market cap ratio is nearly 2%.
+
+# Brand Value of "TTK Prestige"
+
+Well, what cooker are you using in your house? Prestige? Then you know its brand. TTK Prestige product base is huge with over 250 products in Cookers, Non-Stick Cookware, Mixer Grinders and Sandwich Toasters and in many more categories.
+---
+# Competition & Future Growth Prospects for "TTK Prestige"
+
+Hawkins Cooker is one competitor that I see. They too are nearly zero debt, but their growth in the past has not been as great as TTK. Hawkins doesn’t have the extensive reach as TTK Prestige. Even with Hawkins, it’s not much competition.
+
+Coming to future growth prospects, India's consumption growth is going up and up. Specifically, Gas Cooker usage is on the rise. A lot of people still cook with firewood.
+
+# Growth Consistency of "TTK Prestige"
+
+Look at the summary section and come back here. The growth has been consistent and high. The share price has risen a lot as the brand value is on the rise. There's a lot more steam left in the next 10 years.
+
+# Jubilant Foodworks Ltd
+
+Summary (Data as on Dec 2011)
+Stock Price per Share: 750 Rupees
+Market Cap: 4,900 Crores
+Debt: 0
+Cash & Cash Equivalents: 9 Crores
+Profits in FY 2010, 2011: 33 Crores, 72 Crores
+Profit growp in FY 2011: 118%
+Profit growp in last 1 year: 118%
+Share Price Rise in last 2 years: 240%
+
+Let’s analyze Jubilant Foodworks with our 4 thumb rule.
+
+# Debt & Cash Equivalents of "Jubilant Foodworks"
+
+Jubilant Foodworks is a Zero Debt company with Rupees 9 Crores cash in hand. It listed in secondary markets in 2010. So it’s only early days for the company. Their first priority will be to expand with more outlets. So, they will have minimal cash in hand as a result of that.
+
+# Brand Value of "Jubilant Foodworks"
+
+Well, you may not have heard of the name "Jubilant Foodworks". But, you definitely would have heard about Dominos Pizza. It’s not just Pizza's that they serve. You also get chicken popcorn, other side dishes & beverages (Pepsi or coke). They also operate in Nepal, Sri Lanka and Bangladesh.
+---
+Competition & Future Growth Prospects for "Jubilant Foodworks"
+
+Their main competitor is Pizza Hut. But Domino's and Pizza operate in two different price ranges, with Domino's being the cheaper one. That will definitely suit well for expansion and growth in India. Pizza Hut is not a listed competitor and as far as I see, there are more Domino's outlets than Pizza hut.
+
+Coming to future growth prospects, Dominos are mainly found only in Cities as of now. I don’t think they have penetrated into smaller cities yet. That leaves tons of space to expand within India and other countries. All this could happen in the next 10 years.
+
+Growth Consistency of "Jubilant Foodworks"
+
+As said before, Jubilant gave IPO only recently and listed in stock exchange in early 2010. So, we don’t have financial data for the last 5 years. From the limited data we have, they have grown at an awesome pace so far.
+
+Godrej Consumer Products
+
+Summary (Data as on Dec 2011)
+
+|Stock Price per Share:|390 Rupees|
+|---|---|
+|Market Cap:|12,600 Crores|
+|Debt:|272 Crores|
+|Cash & Cash Equivalents:|81 Crores|
+|Profits in FY 2007, 2008, 2009, 2010, 2011:|132 Crores, 148 Crores, 162 Crores, 248 Crores, 435 Crores|
+|Profit growth in FY 2008, 2009, 2010, 2011:|12%, 14%, 53%, 75%|
+|Profit growth in the last 5 years:|229%|
+|Share Price Rise in the last 5 years:|200%|
+
+Let’s analyze Godrej Consumer Products with our 4 thumb rule.
+
+Debt & Cash Equivalents of "Godrej Consumer Products"
+
+Godrej Consumer Products has debt of Rupees 272 Crores and Rupees 81 Crores of cash in hand. You can consider net debt as Rupees 191 Crores (272 - 81). Debt to Profit ratio is less than 0.50 (191 % 435). They can pay off their debt with just profits made in 6 months. Debt is at very safe levels.
+
+Brand Value of "Godrej Consumer Products"
+
+Some of their well-known products are "Good Night" to kill mosquitos, "Hit" to kill cockroaches and "Cinthol" soap and Godrej Shaving Cream. They have many more products which you may not recognize. You can logon to http://www.godrej.com and check them all out. The word "Godrej" itself has a great brand value. I am sure you will agree with that.
+
+25 © www.bse2nse.com
+---
+# Competition & Future Growth Prospects for "Godrej Consumer Products"
+
+"Good Night" has competition in "All Out" which belongs to J & J (Johnson & Johnson), which is not listed in Indian Stock Exchange. "Hit" has very little competition. They have a wide variety of products in "Home Care", "Personal Wash" and "Hair Care."
+
+Coming to future growth prospects, am sure India will be more haunted by mosquitos and cockroaches as time goes on. People get white hairs at a younger age now and there will be more need for dyes. Personal care and things like beauty parlor products are on the rise and there's more room for growth.
+
+# Growth Consistency of "Godrej Consumer Products"
+
+Growth consistency has been very good and is picking up more and more in recent years.
+
+# GlaxoSmithKline Consumer HealthCare
+
+# Summary (Data as on Dec 2011)
+
+|Stock Price per Share|2500 Rupees|
+|---|---|
+|Market Cap|10,600 Crores|
+|Debt|0|
+|Cash & Cash Equivalents|976 Crores|
+|Profits in FY 2006, 2007, 2008, 2009, 2010|127 Crores, 163 Crores, 188 Crores, 233 Crores, 300 Crores|
+|Profit growth in FY 2007, 2008, 2009, 2010|28%, 15%, 24%, 29%|
+|Profit growth in last 5 years|136%|
+|Share Price Rise in last 5 years|367%|
+
+Let’s analyze GlaxoSmithKline Consumer HealthCare with our 4 thumb rule.
+
+# Debt & Cash Equivalents of "GlaxoSmithKline Consumer HealthCare"
+
+GlaxoSmithKline is a Zero debt company. Its rich in cash with Rupees 1000 Crores. That’s Cash to Market cap ratio of 10%, which is amazing. As the company has accumulated cash, it has pushed share prices more than the profit growth in the last 5 years.
+
+# Brand Value of "GlaxoSmithKline Consumer HealthCare"
+
+You may not have heard about GlaxoSmithKline. But they have minimal product line with all of them being popular, which epitomizes their quality. Horlicks, Boost is the secret of my energy, Maltova & Viva are their products under nutritional category. Crocin, Eno and Iodex are their products under healthcare category.
+
+# Competition & Future Growth Prospects for "GlaxoSmithKline Consumer HealthCare"
+
+I always believe that quality products can never be eroded by competition. If they erode, then they are not quality products anymore.
+---
+Boost, Horlicks, Crocin & Iodex have been products that have thrived for decades. I don’t think one needs to be worried about competition here.
+
+Future growth prospects: Well, their product line is little with each one outperforming. Even if they introduce one more new quality product, am sure that will also do great and push their profit line higher. And with India’s growing population and increasing purchasing capacity, their quality products will be more in demand.
+
+Growth Consistency of "GlaxoSmithKline Consumer HealthCare" It has been most consistent. They have accumulated cash which adds more value to investors. Their track record is immaculate in the last 5 years.
+
+Asian Paints Lp
+
+Summary (Data as on Dec 2011) Stock Price per Share: 2,600 Rupees Market Cap: 24,900 Crores Debt: 64 Crores Cash & Cash Equivalents: 507 Crores Profits in FY 2006, 2007, 2008, 2009, 2011: 188 Crores, 270 Crores, 378 Crores, 362 Crores, 775 Crores Profit growth in FY 2007, 2008, 2009, 2011: 44%, 40%, - 4%, 114% (FY2010 & 2011) Profit growth in last 5 years: 312% Share Price Rise in last 5 years: 258%
+
+Let’s analyze Asian Paints with our 4 thumb rule.
+
+Debt & Cash Equivalents of "Asian Paints" Asian Paints is a zero debt company for me with cash equivalents of Rupees 500 Crores. Cash to Market cap ratio of 2%.
+
+Brand Value of "Asian Paints" Well, my dad chose Asian Paints when it came to painting the house. It’s the preferred paint although it’s expensive than its peers. And all corporate buildings will prefer their buildings painted with the best paint. If you notice closely, most hardware shops are solely Asian Paints outlets. Their distribution channel is amazing. So are the varieties of colors they offer in their product line.
+---
+# Competition & Future Growth Prospects for "Asian Paints"
+
+Asian Paints dominates the paint industry. Nerolac Paints & Berger Paints are its competitors. They mainly cater to those who can't afford Asian Paints. Nerolac & Berger Paints are competition to each other, but not to Asian Paints.
+
+Future growth prospects: I worked in HP till mid-2011. In 2009, during economic recession, they didn’t have the budget to hike employee’s salary. But they still painted their buildings so that it looks clean for business reasons. Corporate buildings re-paint every 2 years if not more frequently. And with infrastructure growing, there will be more demand for paints.
+
+# Growth Consistency of "Asian Paints"
+
+It slowed in 2009, but the growth trend continued after that. It’s been very consistent otherwise.
+
+# Nestle India
+
+Summary (Data as on Dec 2011)
+
+|Stock Price per Share|4,200 Rupees|
+|---|---|
+|Market Cap|40,500 Crores|
+|Debt|0|
+|Cash & Cash Equivalents|406 Crores|
+|Profits in FY 2006, 2007, 2008, 2009, 2010|315 Crores, 414 Crores, 534 Crores, 655 Crores, 819 Crores|
+|Profit growth in FY 2007, 2008, 2009, 2010|31%, 29%, 23%, 25%|
+|Profit growth in last 5 years|160%|
+|Share Price Rise in last 5 years|320%|
+
+Let’s analyze Nestle India with our 4 thumb rule.
+
+# Debt & Cash Equivalents of "Nestle India"
+
+Nestle is a Zero debt company with Rupees 406 Crores of cash in hand. Cash to market cap ratio is 1%.
+
+# Brand Value of "Nestle India"
+
+Nestle's brand products are very popular and impressive. Maggi Noodles & Sauces, Nescafe Coffee & Tea, Nestle Milk & Curd. Many products in chocolates like Kitkat, Barone, Dark Chocolate, Munch, Milkybar, Eclairs & Polo. It’s way too impressive.
+
+# Competition & Future Growth Prospects for "Nestle India"
+
+Like i said for Glaxosmithkline, you don’t need to worry about competition for companies focused on quality products. Nestle is headquartered in Switzerland and you don’t need to worry about their product quality or competition.
+---
+# Future growth prospects:
+
+Quality products will always grow. I need not say more here.
+
+# Growth Consistency of "Nestle India"
+
+It’s been the consistent among my picks. They churn profits like clockwork.
+
+# Apollo Hospitals Enterprise
+
+Summary (Data as on Dec 2011)
+Stock Price per Share: 550 Rupees
+Market Cap: 7,600 Crores
+Debt: 740 Crores
+Cash & Cash Equivalents: 140 Crores
+Profits in FY 2006, 2007, 2008, 2009, 2011: 60 Crores, 100 Crores, 103 Crores, 118 Crores, 182 Crores
+Profit growp in FY 2007, 2008, 2009, 2011: 67%, 3%, 15% and 54%
+Profit growp in last 5 years: 203%
+Share Price Rise in last 5 years: 160%
+
+Let’s analyze Apollo Hospitals with our 4 thumb rule.
+
+# Debt & Cash Equivalents of "Apollo Hospitals Enterprise"
+
+Apollo Hospitals has debt of Rupees 740 Crores and cash in hand of Rupees 140 Crores. The net debt would be 600 Crores. Debt to Profit ratio is now at little over 3 (600 % 182). This actually breaks the very first of our 4 thumb rule. But, Apollo is my only exception to the 4 thumb rule due to strong brand value and near Zero competition.
+
+# Brand Value of "Apollo Hospitals Enterprise"
+
+I don’t think i need to say anything here. You definitely must have heard about "Apollo Hospitals". Years back, local hospitals always give reference to Apollo for complex health issues. Even now, it’s the same. Now, that is brand value that you can’t beat.
+
+# Competition & Future Growth Prospects for "Apollo Hospitals Enterprise"
+
+Well, since Apollo is an exception to the debt levels, I had sufficient reasons to still pick it. The first big competitor is Fortis Healthcare. Fortis Healthcare also has Debt to Profit ratio of over 3. So it’s no better than Apollo that way. It made losses in FY2007, some part of 2008 and 2009. FY2011 has however turned around with profits of 142 Crores.
+
+Next on line is Indraprastha Medical Corporation which is Apollo itself in Delhi. It’s their own. So no competition there.
+---
+# Next is Kovai Medical Center and Hospital
+
+a very small player. It has debt to profit ratio of 16. It will have to spend the next 20 years fighting debt.
+
+That’s it. No real competition except for Fortis Healthcare.
+
+Coming to Future growth prospects, am sure healthcare is on the rise whether we like it or not. As the economy moves up, so will healthcare charges.
+
+# Growth Consistency of "Apollo Hospitals Enterprise"
+
+Apollo has consistently grown and has picked up a lot in recent years. They took debt to expand more outlets in more cities. They will continue to grow.
+
+# CRISIL
+
+# Summary (Data as on Dec 2011)
+
+|Stock Price per Share|860 Rupees|
+|---|---|
+|Market Cap|6,100 Crores|
+|Debt|0|
+|Cash & Cash Equivalents|35 Crores|
+|Profits in FY 2006, 2007, 2008, 2009, 2010|37 Crores, 71 Crores, 137 Crores, 150 Crores, 196 Crores|
+|Profit growth in FY 2007, 2008, 2009, 2010|92%, 93%, 10%, and 31%|
+|Profit growth in last 5 years|430%|
+|Share Price Rise in last 5 years|258%|
+
+Let’s analyze CRISIL with our 4 thumb rule.
+
+# Debt & Cash Equivalents of "CRISIL"
+
+As mentioned in the summary above CRISIL is a Zero debt company. It has decent amount of cash in hand. They can accumulate more cash as they become bigger and bigger. So that’s not a big deal. Cash to Market cap ratio is close to 0.60%
+
+# Brand Value of "CRISIL"
+
+CRISIL is a Standard & Poor's company (Also known as S&P). You may not have heard about S&P. But in investing community, it’s known all over the world more so in United States. CRISIL is India's first credit rating agency started way back in 1987. They rate Stocks, Sectors, IPO's, Mutual Funds & many more. They rate everything that needs to be rated. What i like about CRISIL is that, their business model is very low on risk. Why? Are they going to make losses if they rate a little wrongly? No not at all. That’s why I say it’s a low risk business model.
+---
+# Competition & Future Growth Prospects for "CRISIL"
+
+The only real competitor is ICRA although there might be few other very small players. ICRA lacks
+the brand value that CRISIL possesses and cannot pose any real threat to CRISIL. To say in simple
+words, there's not much competition which makes CRISIL a very attractive buy for investors.
+
+Coming to Future Growth prospects, SEBI is making it mandatory that all IPO's & Mutual Funds should
+be rated by minimum 3 agencies and so on. It just means that CRISIL will have more work to do as
+time passes on. CRISIL Global Research & Analytics (GR&A) does a lot of things globally also. So,
+there's lot of scope for more globally.
+
+# Growth Consistency of "CRISIL"
+
+Just look above at the summary section and you will see the consistency at which CRISIL has delivered
+in terms of growth. It has slowed down in the last couple of years on weak global economy. It will
+soon start accelerating.
+
+# Colgate Palmolive India Ltd
+
+# Summary (Data as on Dec 2011)
+
+|Stock Price per Share:|1,000 Rupees|
+|---|---|
+|Market Cap:|13,800 Crores|
+|Debt:|0|
+|Cash & Cash Equivalents:|395 Crores|
+|Profits in FY 2006, 2007, 2008, 2009, 2011:|138 Crores, 160 Crores, 232 Crores, 290 Crores, 403 Crores|
+|Profit growth in FY 2007, 2008, 2009, 2011:|16%, 45%, 20%, 28% (FY10 & FY11)|
+|Profit growth in last 5 years:|192%|
+|Share Price Rise in last 5 years:|194%|
+
+Let’s analyze Colgate Palmolive India with our 4 thumb rule.
+
+# Debt & Cash Equivalents of "Colgate"
+
+Colgate is a zero debt company with nearly Rupees 400 Crores of cash in hand. Cash to market
+cap ratio is at nearly 3%.
+
+# Brand Value of "Colgate"
+
+I am sure everyone must have used Colgate or must have heard of it. Their product line is extensive.
+Tooth paste, Tooth Powder, Tooth Brush, Tooth Whitening & mouth wash come under oral care.
+Palmolive Body wash, liquid hand wash, shaving cream comes under personal care.
+---
+Competition & Future Growth Prospects for "Colgate"
+
+Pepsodent competes in toothpaste & brush which is marketed by HUL. HUL mainly only concentrates on marketing products at retail outlets and they don’t make products. So their business model is kind of different. Also Colgate products go deep into Oral care like tooth whitener and the reason why you will find Colgate showcased in Dental Clinics & not Pepsodent. There's not much to worry with the focused approach of Colgate. And Colgate has delivered more and consistent profit growth in the last 5 years than HUL.
+
+Even Today, people in smaller cities & villages use lower brand toothpaste or neem stick. As purchasing capacity grows, so will Colgate’s penetration into smaller cities.
+
+Growth Consistency of "Colgate"
+
+It has been very consistent with profit growth over the last 5 years
+
+32
+© www.bse2nse.com
+---
+# Common Mistakes To Stay Away From
+
+Low P/E is Attractive & High P/E is Risky
+
+If you see all through this book, i have never given any importance to P/E of a stock. If you start judging stocks based on P/E of a stock, you will invest in wrong unworthy stocks.
+
+You should know that 80% or more of Indian Investing community lacks the basic knowledge of financial markets. The common mis-conception is that, low P/E is attractive and high P/E is risky. In most cases, its infact the opposite. You cannot conclude anything for sure based on P/E and it’s better to stay away from analyzing it. Stick to the 4 basic thumb rules (Debt, Brand, Competition & Growth) which will definitely put you in the right path.
+
+Nestle has a P/E of around 40. Titan has a P/E of around 35. All stocks listed in this book have a P/E of over 25. Would you avoid it? NO way. All these stocks have commanded and stayed at these P/E levels consistently over 5 years, through good and bad times. They command such P/E levels, because they are strong in each aspect of the 4 thumb rule i mentioned. P/E being high in such brand valued stocks, DO NOT have greed in it.
+
+One needs to be only alarmed if P/E of a stock or sector rises heavily and suddenly to alarmingly levels (More so if debt is associated with it). It’s an indication of greed and will soon fall even more terribly. Let’s see some examples of heavy & sudden rise in P/E of sectors, which has happened in the past, in Indian Stock Markets.
+
+Below is the P/E chart of IT Index (Mix of IT Stocks like Infosys & TCS) in the last 10 years. Unfortunately, we don’t have data before 2000. Investors pumped in money madly in early 2000 and pushed P/E of IT sector to mad levels of 100. Like greed always does, it created a huge fall. Luckily, all IT companies were debt free and the fall in P/E was superseded by growth of companies like Infosys and TCS. Share price of Infosys still grew 10 times between 2000 & 2010. Debt free is the crucial word here.
+
+| |1|1|1|1|1|1|1|1|1|1|1|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Year| | | | | | | | | | |
+
+CNX ITPIE
+
+© www.bse2nse.com
+---
+Let’s now look at Realty Index (Mix of realty companies like DLF & Unitech). Now, all realty companies including Unitech & DLF had debt from the start and they never paid them back in good times, when they made huge profits. Their profits grew a lot between 2004 & 2007. But, they also built more debt, to buy more lands. When purchasing power went down in 2009, they sank. Debt killed P/E and the stock investors in it.
+
+Below is the P/E chart of CNX Realty Index from 2007. Unfortunately, Realty index was formed by our Stock exchanges only in 2007 and we don’t have data before it. As you can see, investors madly rushed in between 2004 and 2007 into Realty stocks pushing P/E to made levels to 140. Unitech rose over 150 times in just 3 years between 2004 and 2007.
+
+| |CNX Realty PIE|
+|---|---|
+|Years| |
+|2007|160|
+|2008|140|
+|2009|60|
+|2010|28|
+
+After 2007, such mad levels came down and investors burnt their hands. Unitech fell from peaks of over Rupees 500 a share in 2008 to Rupees 20 today wiping out its investors.
+
+This is why I repeatedly mention debt as a killer, not just to the economy, but also to investors. Companies which grow without debt, building strong brand name & value alone are investor friendly.
+
+© www.bse2nse.com
+---
+# Better Times To Buy & Best Times To Sell
+
+Now that you have learned the art of stock picking, the next level of fine tuning to your investments is to know when to buy the worthy stocks and sell when greed is inflated in the economic system.
+
+# Better Times To Buy
+
+Even good stocks fluctuate and come down from time to time due to investor sentiments. But, they eventually go up as the company makes more and more profits. Use the fall in stock prices as opportunities to buy them. A good indicator of buy levels are 50 day EMA (Exponential Moving Average) and 200 day EMA.
+
+Let’s now first understand what a SMA (Simple Moving Average) is. Let’s take the example of Titan Industries. 200 day SMA of Titan Industries is nothing but, the average stock price of Titan Industries in the last 200 days. In SMA, equal weightage is given to stock price in the last 200 days. EMA is very similar to SMA, wherein more weightage is given to recent stock price in the last 200 days. 50 day EMA and 200 day EMA are good levels to buy good stocks.
+
+Below is the chart of Titan Industries in the last 5 years with 50 day & 200 day EMA lines.
+
+|Titan Industries|BSE: 600114|MSE: Titan|ISIN: INE280401028|
+|---|---|---|---|
+|172.25|-1.35 (0.78%) VOLUME 146,630|DNSE U1|172.10 41.65 (0.95%) VOLUME 1,148,990|
+
+QUOTE
+
+Add stocks to Compare
+
+CHARTS
+
+VIEWS
+
+ANNOUNCEMENTS
+
+CORPORATE ACTION
+
+TITANIND Open '173.25 High 176.00 Low 167.00 Close 173.6 Volume 466253
+
+FINANCIALS
+
+EMA(200) 197.14
+
+ANNUAL REPORT
+
+SHAREHOLDING 340
+
+PATTERNS
+
+PEERS
+
+COMPANY INFO
+
+COMMENTS
+
+ALERTS
+
+Your feedback valued
+
+2006 2008 2009 2010 2011
+
+© www.bse2nse.com
+---
+# If you look at the chart in the previous page, the two thin lines (green and blue) you see are 50 day & 200 day EMA of Titan. The thick blue line is the share price of Titan in the last 5 years. Now, the black arrows are points where the stock price falls back near 55 day & 200 day EMA. These are fair and good levels to buy.
+
+The red lines I have marked are when the stock price peaks and they peak from time to time. Avoid buying even good stocks at peaks. Good stocks will create higher peaks from time to time as their profits roll out higher and higher. But, the peaks are not the best times to buy. 55 day & 200 day EMA are better price levels to buy. Sometimes, even good stocks will breach down below 200 day EMA. That’s why this topic is named as “better times to buy” & NOT “best times to buy”. Don’t worry about good stocks going below 200 day EMA. Accumulate below 200 day EMA. These are great levels for long term as long as the company’s future growth prospects are still intact.
+
+DO NOT, I repeat, Do Not use the red line peaks as times to sell your stock investments. That’s a real bad idea. Do not try to buy at the arrow points and sell at the red peaks. You cannot time it. No one can. You will one day end up selling at 500 and the stock will go to 700 and never come back to 500 and you will curse yourself. You have done a great job at picking the rarest of great stocks. Pick the courage to buy on dips.
+
+EMA levels are good fair levels to buy. P/E of an Index (NOT P/E of a stock) is the best indicator of greed. Use P/E levels of “Nifty” index to identify best times to sell. That’s the next topic.
+
+# Best Times To Sell
+
+Indian Stock Market has 2 popular Indexes which go by the name "Sensex" and "Nifty". You can think of Sensex as a mix of top 30 stocks in Indian Stock Exchange and Nifty as a mix of top 50 stocks in India Stock Exchange (Although this statement is not precisely true). Let’s get to the more critical thing here. The purpose of these indexes are to measure Indian Stock Performance over a period of time. Just like Stocks, these Indexes also have P/E. Now, these indexes are a mix of top stocks (in terms of market cap i believe) from various sectors (Cement, Sugar & so on). So, not all of them are worthy stocks to be invested in (Many are debt loaded). So when P/E of these indexes peak, its danger signal for investors. Why? When stock price of bad companies loaded with debt rise, it means there's tons and tons of greed in the Financial Markets. And this greed will definitely end, followed by a huge fall in economy and a huge fall in Stock Markets. This cycle in undeniable and will happen again and again. It’s advisable to exit Stock Markets on such peaks. What exactly do i mean by a peak here? Checkout the P/E chart of “Nifty” Index in the last 10 years and you will understand what I mean.
+
+© www.bse2nse.com
+---
+I would basically look at the peaks. You can see that Nifty P/E has peaked above 25 levels, three times in the last 10 years. It hit around 28 levels in early 2000, 28 levels again at 2008 and 25 levels 2011. These are golden opportunities where an investor can look to make partial exit in equity and increase cash levels in one’s portfolio.
+
+Exiting Equity is a bad habit if you are still building towards a dream target portfolio. If you are still building towards a dream target portfolio, accumulate equity slowly once Nifty PE is above 24. One should avoid investing in bulks once Nifty PE is above 24. One should understand that downside risks go up as Nifty PE goes above 24. If you can do this, you will be the best investor. I consider this as the final killer blow to investing.
+
+37
+© www.bse2nse.com
+---
+# Service Offerings from www.bse2nse.com
+
+FREE Training on Futures & Options Trading
+
+bse2nse.com is an Authorized Person for Zerodha and we offer FREE Training on Futures and Options Trading for clients who open a Zerodha Trading Account through us.
+
+You can fill-out the form at the below URL if you are interested to join us.
+
+http://bse2nse.com/brokers-trading-platforms/2250-zerodha-brokerage-rates-charges-one-cheapest-brokerage.html
+
+The FREE training is only applicable to clients who open a Zerodha Trading Account through us. It is not applicable to clients who open it directly with Zerodha.
+
+Watch Our Videos on You-Tube
+
+We have categorized videos on our You-Tube Channel as Beginners, Traders, Investors, and Private Videos for Zerodha clients.
+
+Watch our videos at www.youtube.com/user/bse2nse or just search on You-Tube for “bse2nse” to find us.
+
+Subscribe to our You-Tube Channel to stay in touch
+
+Long Term Investment Dashboard
+
+Checkout our Long Term Investment Dashboard at the below URL http://bse2nse.com/Dashboard/EOD/Equity/screens/eod_dashboard.php
+
+It filters in on less than 30 companies out of 1000 plus companies listed in NSE Exchange.
+
+Watch the video linked on the Dashboard URL to understand the logic of how this filter works.
+
+Feel free to drop me an e-mail at rmani84@gmail.com (Or) Whats-App @ 9600081895.
+---
+# Gold ETF's
+
+Diversify your investments in Gold also. Just like you can buy shares a company, you can now buy Gold ETF's in your DEMAT account online. Apart from Gold being a safe investment, Gold prices normally tend to rise when investors lose faith in Stock Market. Hence, it adds the right balance to your stock investments.
+
+Some Personal Advice
+
+Do not trust so called Expert’s Advice That includes me too and this book also. While you have added a lot of knowledge reading this book, test it out. Reading this book is just a start. Your confidence levels about stock investing will only increase when you invest yourself and see things for yourself in reality. Build courage to hold good stocks even if they go down from price levels you buy. This is a very crucial aspect to investing. This is one reason why you should always start investing with very minimal amount that you can afford.
+
+Start investing in stocks with as little amount, say 3000 Rupees. I started investing in my 4th year of college with 3,000 Rupees way back in 2005. In the first year, gaining confidence on stock markets is the primary thing.
+
+Invest With Your Savings
+
+My dad used to give me 2000 Rupees a month when i was in college and i saved some from it and started investing in stocks. When i joined a job, i took personal loans at 15% interest rates and increased my capital. It’s not such a good idea really. Always, invest with your savings. Like i said before in this book, debt is a bad thing, both for us and for the company we invest in.
+
+Do Not Rush In
+
+Stocks markets are a very exciting place. More so, when you see shares doubling in no-time. Staying sane and patient is important too. It’s very easy to be pulled in to the greed system.
+
+Stock markets will always provide you with buying opportunities. So, don’t get rushed in seeing share price rise. Let me repeat that. You will get frequent buying opportunities and few golden opportunities to sell, when greed inflates the system bursting the bubble.
+
+© www.bse2nse.com
+---
+# What About Mutual Funds?
+
+Mutual funds are definitely a better choice for those who lack the basic knowledge about Stock Investing. If you are reading this, you definitely would have been enriched by now. Mutual funds only do well when economy is in good mood and stock markets as a whole is on the rise. Mutual Funds don’t do so well when the economy is bad. For example, in 2011, nearly all mutual funds have given negative returns.
+
+Nowadays, there are too many mutual funds. Mutual Funds are as risky as the stocks they are invested in. And generally mutual fund managers avoid high P/E stocks or at-least keep exposure to high P/E stocks to a minimum. All of the stocks listed in this book are stocks with P/E on the higher side. Mutual Fund managers are highly educated with MBA degrees and so on. They all come through an education system, which complicate things, not focusing on what they really should. To a certain extent, they are also greedy with targets to achieve for their own variable pay.
+
+There must be over 100 Mutual Fund options nowadays, with only 5 worthy of investing in. And it’s more difficult to find the good one. Because, you have to look at what stock each mutual fund holds and they might keep changing it from time to time.
+
+But for tax exemption, Avoid Mutual Funds if you have the courage to pick stocks and invest on your own.
+
+For those who are comfortable only with Mutual Funds, invest in SIP when Nifty PE is below 20 and exit systematically within 3 months when Nifty PE hits 24.
+
+40
+© www.bse2nse.com
+---
+# Summary or Re-cap of the Book
+
+Let’s summarize here. Like I said before, I wanted to be short, precise and to the point.
+
+Debt is a killer. Avoid companies wip debt. Don’t even pink about it.
+Brand recognition is invaluable. Quality products are even more invaluable.
+Lesser pe competition, better it is. It ensures future growp prospects.
+Growp Consistency in pe past, is a reflection of how good a company has done, prough good and bad times.
+Diversify your investments in 5-10 stocks.
+Do not rush in to buy.
+50 day & 200 day EMA levels good and fair levels to buy Good companies.
+P/E of an Index (Nifty) is a good indicator of greed. Exit Equity Markets when Nifty P/E crosses 24. Such opportunities come once in 5 years. Don’t miss it.
+Gold is a great alternative when greed inflates Equity Markets.
+
+© www.bse2nse.com
+---
+Your Feedback
+
+I would love to hear back from you. If your views towards stock investing have changed reading this book, kindly let me know. Good or bad doesn’t matter.
+
+If any part of the book is confusing from a beginner’s perspective, Kindly let me know. I would greatly appreciate such feedbacks. I intend to fine tune the content on this book based on your feedback in the later versions.
+
+My goal is to extend this book’s reach to all Schools, Colleges & Libraries in India. It needs to be in a way that everyone can understand. That is possible only when I get feedback from various people reading this book.
+
+India is not actually leveraging from its own strengths and right now it’s only the FII’s (Foreign Institutional Investors) who have the knowledge of Financial Markets leveraging from Indian Stock Markets.
+
+Logon to www.bse2nse.com and I have a separate tab in my forum at the top. You can click on it and provide your feedback there.
+
+If you have any queries related to investing (About stocks, is it a good time to buy, anything). Logon to www.bse2nse.com and you can create a thread in the forum and ask your queries and I will be more than glad to answer your queries.
+
+© www.bse2nse.com
+---
+Disclaimer
+
+- I have every intention of buying stocks mentioned in this book myself or already holding them.
+- The views expressed in this book are completely my own personal thoughts.
+- I am not responsible for losses that may arise in any way financially and will not claim profits you may make from my recommendations.
+- This book is purely intended to break the myth that stock investing is gambling. Some of the things that I have stressed upon are not intended to hurt anyone’s feelings. So, don’t take it seriously.
+
+© www.bse2nse.com
