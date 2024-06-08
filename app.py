@@ -250,7 +250,7 @@ def generate_answer(user_question):
 def llm_model(prompt):
     model = genai.GenerativeModel('gemini-1.5-pro')
                                    #temperature=0.3, google_api_key=gemini_api)
-    response = model.generate_content(prompt)    
+    response = model.generate_content("JUST PROVIDE THE PERFECT ANSWER IN THREE POINTS!!\n"+prompt)    
     #print(response)
     return response.text
 
@@ -283,7 +283,7 @@ def index():
 def ask():
     user_question = request.form['question']
     generated_answer, context = generate_answer(user_question)
-    return jsonify({'response': prettify_text(generated_answer)})
+    return jsonify({'response': prettify_text(generated_answer), 'doc': prettify_text(context)})
 
 @app.route('/evaluate', methods=['POST'])
 def evaluate():
@@ -294,7 +294,7 @@ def evaluate():
     print("\n\nCORRECT ANSWER\n\n",correct_answer)
     evaluation_result = evaluator(user_question, generated_answer, combined_docs_content, correct_answer)
     print("evaluation reult",evaluation_result)
-    return jsonify({'evaluation': evaluation_result,'response': prettify_text(generated_answer)})
+    return jsonify({'evaluation': evaluation_result,'response': prettify_text(generated_answer),'correct_ans': prettify_text(correct_answer),'doc':prettify_text(combined_docs_content)})
 
 def prettify_text(text):
     prettified = text.replace('\n', '<br>')
