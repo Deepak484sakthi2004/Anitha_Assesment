@@ -93,7 +93,7 @@ vector Database:
 # read the available data! from the Resumes Relative Directory
 input_data_directory = "data/"
 processed_data_directory = "processedData/"
-#main(input_data_directory)
+main(input_data_directory)
 
 # efficient extraction of data from pdf!!
 parsedData = readParsedData(processed_data_directory)
@@ -141,7 +141,7 @@ def vectorize():
         return 
 
 # Now `retriever` can be used to search/retrieve documents based on the embeddings    
-#retirever = vectorize()
+retirever = vectorize()
 
 
 
@@ -233,19 +233,19 @@ def get_conversational_chain():
     return chain
 
 # for better retrival , it uses llm to tune the results!!! 
-# def generate_answer(user_question):
-#     new_db = FAISS.load_local("faiss_index", embeddings, allow_dangerous_deserialization=True)
-#     docs = new_db.similarity_search(user_question,k=2)
-#     chain = get_conversational_chain()
-#     response = chain({"input_documents": docs, "question": user_question}, return_only_outputs=True)
-#     return response["output_text"], docs
-
-
 def generate_answer(user_question):
     new_db = FAISS.load_local("faiss_index", embeddings, allow_dangerous_deserialization=True)
-    docs = new_db.similarity_search(user_question,k=1)
-    out = "\n\n".join([doc.page_content for doc in docs])    
-    return out, docs
+    docs = new_db.similarity_search(user_question,k=2)
+    chain = get_conversational_chain()
+    response = chain({"input_documents": docs, "question": user_question}, return_only_outputs=True)
+    return response["output_text"], docs
+
+
+# def generate_answer(user_question):
+#     new_db = FAISS.load_local("faiss_index", embeddings, allow_dangerous_deserialization=True)
+#     docs = new_db.similarity_search(user_question,k=1)
+#     out = "\n\n".join([doc.page_content for doc in docs])    
+#     return out, docs
 
 def llm_model(prompt):
     model = genai.GenerativeModel('gemini-1.5-pro')
