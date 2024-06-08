@@ -10,7 +10,7 @@ git clone https://github.com/your_username/your_repository.git
 ```
 
 2. install the requirements.txt file
-   ```bash
+```bash
 pip install -r requirements.txt
 ```
 3. Configure your input pdf in the data folder
