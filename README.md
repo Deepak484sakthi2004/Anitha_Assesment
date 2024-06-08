@@ -1,6 +1,6 @@
 
 # RAG IMPLEMENTATION FOR INTERNSHIP ASSESSMENT
-
+![Project output](./sample_output.png)
 ## Installation
 
 1. Clone the repository to your local machine:
