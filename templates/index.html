@@ -11,7 +11,7 @@
         h1 {
             color: #333;
         }
-        #response {
+        #response, #correct-answer, #relevant-doc, #llm-answer, #score {
             margin-top: 20px;
             padding: 10px;
             background: #f9f9f9;
@@ -32,29 +32,34 @@
     <input type="text" id="question" placeholder="Ask a question">
     <button id="ask">Ask</button>
     <button id="evaluate">Ask and Evaluate</button>
-    <div id="response"></div>
-    <br>
-    <p>Accuracy:</p>
+    
+    <div id="llm-answer"></div>
+    <div id="correct-answer"></div>
+    <div id="relevant-doc"></div>
     <div id="score"></div>
-
+    
     <script>
         $(document).ready(function() {
             $('#ask').click(function() {
                 var question = $('#question').val();
                 $.post('/ask', { question: question }, function(data) {
-                    $('#response').html(data.response);
+                    $('#llm-answer').html("<b>LLM Answer:</b> " + data.response);
+                    $('#relevant-doc').html("<b>Relevant Document:</b> " + data.doc);
+
                 });
             });
 
             $('#evaluate').click(function() {
                 var question = $('#question').val();
                 $.post('/evaluate', { question: question }, function(data) {
-                    $('#score').html(data.evaluation);
-                    $('#response').html(data.response);
-
+                    $('#llm-answer').html("<b>LLM Answer:</b> " + data.response);
+                    $('#correct-answer').html("<b>Correct Answer:</b> " + data.correct_ans);
+                    $('#relevant-doc').html("<b>Relevant Document:</b> " + data.doc);
+                    $('#score').html("<b>Accuracy:</b> " + data.evaluation);
                 });
             });
         });
     </script>
 </body>
 </html>
+
